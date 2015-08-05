@@ -2,7 +2,11 @@
 
 ### What is this repository for? ###
 
-It is the MATLAB codes for generating the random samples from Von-Mises Fisher and Watson distribution. 
+It is the MATLAB codes for generating the random samples from Von-Mises Fisher and Watson distribution. The code is part of the work in the following papers:
+
+Chen, Yu-Hui, et al. "[Parameter estimation in spherical symmetry groups.](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7001052)" *Signal Processing Letters, IEEE* 22.8 (2015): 1152-1155.
+
+Chen, Yu-Hui, et al. "[Statistical Estimation and Clustering of Group-invariant Orientation Parameters.](http://arxiv.org/abs/1503.04474)" *International Conference on Information Fusion* (2015 in press)
 
 
 ### Installation ###
