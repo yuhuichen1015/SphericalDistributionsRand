@@ -7,10 +7,11 @@ It is the MATLAB codes for generating the random samples from Von-Mises Fisher a
 
 ### Installation ###
 
-The code is self-packed so it does not need any installation. Every function has its own testcase, named with "_test" extension. The testcases show simple example of how to use these functions.
+The code is self-packed so it does not need any installation. One just need to add the path to the folder using "addpath" in MATLAB to use the functions. Every function has its own testcase, named with "_test" extension. The testcases show simple example of how to use these functions.
 The two main functions which generate the VMF and Watson random samples are:
-*randVMF
-*randWatson
+
+* randVMF
+* randWatson
 
 
 ### Contact Info ###
