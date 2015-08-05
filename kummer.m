@@ -1,5 +1,7 @@
 function f = kummer(a,b,x)
-
+% This function is downloaded from MATLAB center:
+%  http://www.mathworks.com/matlabcentral/fileexchange/29766-confluent-hypergeometric-function/content/kummer.m
+%
 % This function estimates the Kummer function with the specified tolerance
 % the generalized hypergeometric series, noted below.  This solves Kummer's
 % differential equation:
